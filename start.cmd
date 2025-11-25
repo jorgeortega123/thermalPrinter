@@ -1,0 +1,1 @@
+python thermalPrintv3.2.py
